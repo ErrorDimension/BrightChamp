@@ -1,0 +1,10 @@
+{
+    "DATA_PATH": "C:/Users/ErrorDIM/Documents/ErrorDimension/E_Algo/library/inc",
+    "c-cpp-compile-run.cpp-compiler": "C:/mingw32/bin/g++.exe",
+    "c-cpp-compile-run.cpp-flags": "-std=c++17 -I \"C:/Users/ErrorDIM/Documents/ErrorDimension/E_Algo/library/inc\"",
+    "cph.general.defaultLanguageTemplateFileLocation": "C:\\Users\\ErrorDIM\\Documents\\CPH",
+    "cph.general.saveLocation": "C:\\Users\\ErrorDIM\\Documents\\CPH",
+    "code-runner.executorMap": {
+        "cpp": "cd $dir\b\b\"; time g++ -std=c++17 $fileName -o $fileNameWithoutExt.exe -I \"C:/Users/ErrorDIM/Documents/ErrorDimension/E_Algo/library/inc\"; time ./$fileNameWithoutExt.exe"
+    }
+}
