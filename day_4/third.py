@@ -15,7 +15,6 @@ def numberCharacters(string: str) -> int:
     ans = 0
 
     for intChar in string:
-
         if isInRange(intChar, 48, 57):
             ans += 1
 
@@ -26,7 +25,6 @@ def upperCaseCharacters(string: str) -> int:
     ans = 0
 
     for intChar in string:
-
         if isInRange(intChar, 65, 90):
             ans += 1
 
@@ -37,7 +35,6 @@ def lowerCaseCharacters(string: str) -> int:
     ans = 0
 
     for intChar in string:
-
         if isInRange(intChar, 97, 122):
             ans += 1
 
